@@ -15,11 +15,7 @@
 -->
 
 
-<div style="width: 100px;
-    height: 100px;
-    position: relative;
-    margin-left: auto;
-    margin-right: auto"> 
+<div> 
 
   <a href="https://www.instagram.com/breno.nasareth" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
   <a href = "mailto:brenoneves2501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
