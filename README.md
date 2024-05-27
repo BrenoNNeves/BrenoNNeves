@@ -11,7 +11,7 @@
 - 🔭 Trabalhando com Eng de dados
 - 🌱 Estou estudando na UTFPR, amante de Python e Sql(is my life :P)
 - 😄 Pronome: Ele(He)
-- ⚡ Fato Engraçado: Tenho um medo descomunal por cobras e minha linguagem favorita é python
+
 
 
 
